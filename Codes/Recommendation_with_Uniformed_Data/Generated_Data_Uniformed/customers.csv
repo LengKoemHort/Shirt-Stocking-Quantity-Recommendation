@@ -1,0 +1,1001 @@
+CusID,CusName,Gender,PhoneNumber,Address
+1,Toch Rina,F,093 017 076,Pursat
+2,Keo Ratanak,M,017 091 048,Prey Veng
+3,Chan Sokhom,M,087 086 064,Preah Vihear
+4,Vong Monineath,M,060 024 018,Prey Veng
+5,Tol Chan,M,011 050 018,Preah Vihear
+6,Mao Sreytouch,F,076 065 097,Koh Kong
+7,Lim Sovanna,M,098 004 027,Ratanakiri
+8,Seng Sreytouch,F,095 036 054,Preah Vihear
+9,Thay Visal,F,088 076 013,Siem Reap
+10,Ung Sreytouch,F,092 056 074,Banteay Meanchey
+11,Ung Sokhom,F,079 095 030,Battambang
+12,Kim Vanna,F,066 060 033,Tboung Khmum
+13,Suon Chan,F,015 028 001,Oddar Meanchey
+14,Yon Sopheap,M,076 059 059,Battambang
+15,Pich Ravy,M,068 034 004,Siem Reap
+16,You Sokhom,M,095 029 094,Kratie
+17,Tol Visal,M,090 004 058,Ratanakiri
+18,Keo Rathana,F,081 038 019,Pursat
+19,Kong Sokha,F,018 053 091,Svay Rieng
+20,Kim Bopha,F,076 081 037,Prey Veng
+21,Seng Monineath,F,083 077 082,Siem Reap
+22,Vong Dara,M,011 038 071,Kratie
+23,Tang Sopheap,F,080 094 042,Tboung Khmum
+24,Chea Sok,F,011 062 005,Tboung Khmum
+25,Rath Vanna,F,010 051 064,Kandal
+26,Keo Veasna,F,018 030 029,Battambang
+27,Thay Rina,F,066 044 014,Svay Rieng
+28,Suon Sovann,M,095 043 050,Phnom Penh
+29,Lim Rathana,F,061 059 024,Pailin
+30,Tang Sokha,M,076 038 070,Svay Rieng
+31,Tang Sophea,F,079 002 022,Prey Veng
+32,Yun Rithy,M,011 050 043,Oddar Meanchey
+33,Chhay Thida,F,011 064 033,Tboung Khmum
+34,Chuon Bopha,F,088 095 070,Stung Treng
+35,Yun Rina,F,083 053 061,Kampong Speu
+36,Sam Sreytouch,M,038 015 062,Kampong Thom
+37,Chan Rithy,F,013 062 069,Kampong Cham
+38,Yin Visal,M,080 025 023,Stung Treng
+39,Tol Sreytouch,F,070 088 064,Preah Sihanouk
+40,Thay Vanna,F,068 099 056,Kandal
+41,Sam Thida,M,097 078 073,Kampong Chhnang
+42,Kong Sovanna,M,010 057 031,Svay Rieng
+43,Seng Vanna,M,097 078 065,Kampong Thom
+44,Vann Sok,F,080 052 074,Preah Sihanouk
+45,Chea Chan,F,079 062 012,Kep
+46,Toch Visal,M,087 022 035,Kep
+47,Pich Rina,M,086 087 095,Kampong Thom
+48,Tith Rithy,F,096 070 044,Kandal
+49,Kong Sokchea,M,070 060 016,Battambang
+50,Seng Bopha,F,098 096 015,Kep
+51,Yin Sovan,M,066 073 004,Banteay Meanchey
+52,Tang Visal,F,083 023 092,Kampong Speu
+53,Mao Bopha,F,067 011 081,Stung Treng
+54,Toch Ravy,M,096 083 013,Ratanakiri
+55,Ung Vanna,F,092 082 032,Battambang
+56,Keo Vanna,F,079 040 026,Preah Vihear
+57,Sam Sreyneang,M,061 021 063,Pursat
+58,Toch Sovann,F,069 059 011,Kep
+59,Yun Chhun,F,098 055 078,Kampot
+60,Toch Bopha,F,076 004 048,Koh Kong
+61,Chhay Sokha,F,089 034 017,Battambang
+62,Thay Monineath,M,069 083 018,Kampong Cham
+63,Sam Vanna,F,070 050 054,Kep
+64,Seng Sokun,M,085 084 011,Koh Kong
+65,Keo Sreyneang,F,087 010 013,Pailin
+66,Ouk Chan,M,085 038 026,Svay Rieng
+67,Chea Visal,M,069 027 079,Kratie
+68,Chhay Monineath,M,096 095 097,Takeo
+69,Vong Sokhom,F,085 071 067,Preah Vihear
+70,Chan Srey,M,078 064 075,Prey Veng
+71,Toch Rithy,M,038 016 022,Prey Veng
+72,Vann Sovann,F,011 042 005,Battambang
+73,Sam Ravy,M,078 029 013,Oddar Meanchey
+74,You Ravy,F,092 003 092,Kampong Speu
+75,Yin Sokchea,M,080 060 045,Kampong Thom
+76,Yon Visal,M,098 040 038,Oddar Meanchey
+77,Thy Visal,F,017 045 048,Svay Rieng
+78,Yun Sovann,F,090 002 003,Stung Treng
+79,Kong Thida,M,083 002 073,Pursat
+80,Sam Sokha,F,038 035 094,Tboung Khmum
+81,Tol Narin,M,092 004 010,Kandal
+82,Chan Sovanna,F,031 042 038,Prey Veng
+83,Mao Nita,F,060 008 087,Preah Sihanouk
+84,Yin Chan,F,061 007 087,Phnom Penh
+85,Chea Ratanak,M,012 087 083,Pailin
+86,Yon Veasna,M,077 043 083,Stung Treng
+87,Chan Chhun,F,013 044 082,Takeo
+88,Heng Piseth,M,081 010 015,Stung Treng
+89,Keo Chhun,F,038 028 061,Preah Vihear
+90,Ngoun Sok,F,084 050 088,Banteay Meanchey
+91,Tith Sokhom,M,088 047 055,Phnom Penh
+92,Vann Ravy,M,011 047 057,Ratanakiri
+93,Kim Srey,M,086 089 063,Pailin
+94,Vong Rina,M,012 050 030,Pailin
+95,Yin Sreytouch,M,092 074 042,Kampong Chhnang
+96,Chan Nita,M,068 068 087,Kampot
+97,Sam Visal,F,016 056 011,Kratie
+98,Yin Sok,M,012 093 087,Phnom Penh
+99,Chhim Chenda,M,078 050 078,Kratie
+100,Suon Sokha,F,018 041 083,Kratie
+101,Ngoun Monineath,M,086 079 010,Preah Vihear
+102,Thach Sovan,M,087 059 098,Mondulkiri
+103,Kim Sovanna,F,017 091 032,Tboung Khmum
+104,Kong Sreytouch,F,069 097 043,Prey Veng
+105,Thach Chan,M,089 076 095,Prey Veng
+106,You Sovanna,M,060 074 059,Kampong Thom
+107,Mao Sovanna,F,089 075 052,Mondulkiri
+108,Thay Nita,M,087 059 053,Banteay Meanchey
+109,Chhim Chhun,M,096 019 055,Pailin
+110,Vong Bopha,M,092 090 063,Takeo
+111,Mao Sokchea,M,011 053 063,Kep
+112,Thay Chan,M,013 004 058,Stung Treng
+113,Thy Veasna,M,018 061 013,Kampong Speu
+114,Lim Ratanak,M,018 048 024,Kampot
+115,Thay Thida,F,068 002 082,Siem Reap
+116,Chan Chan,M,038 100 096,Pailin
+117,Thach Veasna,F,080 035 082,Takeo
+118,Yun Chenda,F,078 093 029,Takeo
+119,Kong Visal,M,031 020 074,Tboung Khmum
+120,Chea Thida,M,079 028 064,Oddar Meanchey
+121,Yun Sokha,F,096 037 052,Pursat
+122,Chhim Rina,M,096 098 099,Prey Veng
+123,Vong Chenda,M,083 011 017,Battambang
+124,Chan Ratanak,F,066 072 080,Pursat
+125,Kim Piseth,M,077 056 020,Kampot
+126,Heng Sreytouch,F,097 031 049,Kampot
+127,Vong Chhun,F,096 047 087,Stung Treng
+128,Chhay Sophea,M,090 021 003,Kratie
+129,You Ratanak,M,096 051 011,Oddar Meanchey
+130,Lim Veasna,F,090 035 087,Battambang
+131,Thach Piseth,F,095 027 024,Kratie
+132,Mao Sophea,M,077 015 044,Kampong Cham
+133,Heng Sovann,F,098 018 039,Takeo
+134,Kong Sovann,M,061 013 085,Preah Sihanouk
+135,Yin Sreyneang,M,015 099 093,Koh Kong
+136,Rath Srey,F,093 068 074,Kampong Chhnang
+137,Toch Sokchea,F,067 041 033,Siem Reap
+138,Toch Srey,M,087 051 072,Siem Reap
+139,Mao Vanna,M,013 071 003,Oddar Meanchey
+140,Toch Monineath,M,060 015 002,Svay Rieng
+141,Chea Chenda,F,095 008 091,Ratanakiri
+142,Chhay Sreyneang,M,038 071 065,Tboung Khmum
+143,Heng Sovanna,M,087 073 042,Tboung Khmum
+144,Yun Sreyneang,M,068 084 002,Kampong Cham
+145,Thay Rathana,M,078 036 053,Kep
+146,Vong Nita,F,083 021 019,Preah Sihanouk
+147,Thach Rina,M,010 055 047,Kandal
+148,Chea Piseth,M,087 063 021,Preah Sihanouk
+149,Chhay Sovanna,F,098 064 037,Phnom Penh
+150,Tang Sreytouch,M,098 020 057,Kandal
+151,Lim Visal,F,038 082 031,Kampong Thom
+152,Theng Sokhom,M,076 100 043,Mondulkiri
+153,Rath Rathana,F,031 092 025,Kampong Thom
+154,Sam Bopha,F,069 074 054,Kampong Speu
+155,Toch Sreyneang,M,098 037 074,Pailin
+156,Seng Sophea,M,096 063 094,Kampong Chhnang
+157,You Nita,F,085 025 057,Takeo
+158,Chhim Narin,F,088 087 012,Ratanakiri
+159,Yin Ratanak,M,081 076 084,Kandal
+160,Thach Vanna,M,018 040 044,Preah Sihanouk
+161,Rath Bopha,M,086 008 092,Preah Vihear
+162,Tang Chhun,M,095 020 037,Kampong Cham
+163,Pich Visal,F,068 044 018,Kampong Cham
+164,Ngoun Rina,F,068 099 074,Kampong Thom
+165,Tol Piseth,F,095 097 011,Ratanakiri
+166,Vong Sovanna,F,013 076 007,Tboung Khmum
+167,Chhay Rina,M,069 004 001,Kep
+168,Vann Sreytouch,F,096 089 056,Prey Veng
+169,Kim Rathana,M,011 043 052,Prey Veng
+170,Lim Sokhom,F,071 095 008,Ratanakiri
+171,Mao Sreyneang,F,015 003 084,Oddar Meanchey
+172,Chhay Narin,F,078 005 088,Kampong Speu
+173,You Narin,F,078 031 028,Mondulkiri
+174,Chuon Dara,F,098 003 050,Kep
+175,Keo Sovan,M,016 040 050,Pailin
+176,Ngoun Sophea,F,081 044 024,Battambang
+177,Sam Rathana,F,031 063 078,Ratanakiri
+178,Thy Dara,F,011 077 033,Kep
+179,Vann Chhun,F,066 089 100,Kampong Cham
+180,Thay Piseth,M,012 084 097,Koh Kong
+181,Tith Rina,M,076 062 010,Siem Reap
+182,Yin Sovann,M,012 063 056,Preah Vihear
+183,Chuon Sokun,M,011 087 036,Oddar Meanchey
+184,Suon Narin,F,076 067 072,Takeo
+185,Toch Ratanak,M,038 053 028,Tboung Khmum
+186,Kim Rina,F,071 088 093,Oddar Meanchey
+187,Ngoun Sovann,F,076 087 002,Kampot
+188,Rath Rithy,M,068 061 007,Svay Rieng
+189,Chan Sovan,M,068 072 077,Preah Sihanouk
+190,Kong Sokun,M,076 041 086,Pursat
+191,Ung Piseth,F,086 054 050,Kampong Thom
+192,Lim Sovann,M,089 029 071,Siem Reap
+193,Lim Rina,F,083 053 093,Kandal
+194,Thach Sovanna,M,066 019 093,Preah Sihanouk
+195,Ouk Nita,M,095 065 065,Banteay Meanchey
+196,Vong Sreytouch,F,080 037 006,Kampong Cham
+197,Yun Piseth,F,093 096 082,Siem Reap
+198,Rath Sreyneang,F,087 030 011,Siem Reap
+199,Vann Dara,F,069 053 057,Kep
+200,Chhim Sovan,F,087 071 050,Kratie
+201,Mao Ratanak,F,088 001 090,Koh Kong
+202,Vong Chan,F,092 095 052,Takeo
+203,Kim Sokchea,F,078 058 002,Takeo
+204,Ngoun Sopheap,M,098 019 069,Preah Vihear
+205,Tang Bopha,M,013 036 067,Banteay Meanchey
+206,Suon Sokun,M,095 087 031,Kratie
+207,Chea Sokhom,M,068 088 049,Koh Kong
+208,Chhim Ravy,F,061 006 085,Preah Vihear
+209,Vong Sokchea,M,095 013 069,Siem Reap
+210,Tol Chhun,M,079 097 041,Phnom Penh
+211,Keo Sopheap,M,031 026 099,Preah Sihanouk
+212,Tol Ratanak,M,066 062 042,Pailin
+213,Thy Sokhom,F,071 004 014,Preah Sihanouk
+214,Kim Sopheap,F,085 092 094,Pursat
+215,Thay Ratanak,F,070 090 065,Stung Treng
+216,Chea Srey,M,016 087 033,Kandal
+217,Tith Ravy,M,070 038 045,Siem Reap
+218,Chan Rathana,M,078 097 079,Kampong Chhnang
+219,Ung Visal,M,060 018 009,Kandal
+220,Chan Thida,F,083 007 014,Oddar Meanchey
+221,Yon Sok,F,076 082 083,Kampong Speu
+222,Vann Sokchea,F,099 094 031,Kampong Thom
+223,Kong Chan,M,069 070 086,Preah Sihanouk
+224,Ung Chenda,F,013 045 067,Kampong Chhnang
+225,Suon Thida,M,038 036 094,Battambang
+226,You Sreyneang,M,093 091 016,Kratie
+227,Chhim Sopheap,F,067 020 017,Svay Rieng
+228,Rath Dara,M,093 038 016,Kep
+229,Yun Vanna,M,078 038 086,Kratie
+230,Yon Vanna,M,068 050 066,Prey Veng
+231,Ngoun Chhun,M,083 025 023,Ratanakiri
+232,Kim Sovann,M,060 037 080,Kampong Thom
+233,Seng Rathana,M,012 095 093,Pailin
+234,Theng Sreytouch,F,011 063 031,Stung Treng
+235,Vong Sok,F,031 011 100,Koh Kong
+236,Yun Narin,M,081 083 088,Kep
+237,Ouk Vanna,F,018 075 022,Ratanakiri
+238,You Rina,M,086 093 077,Svay Rieng
+239,Mao Thida,M,011 030 083,Kep
+240,Pich Piseth,M,076 096 021,Pursat
+241,Chhim Rathana,F,010 072 020,Banteay Meanchey
+242,Lim Monineath,M,093 082 027,Koh Kong
+243,Chea Sokha,F,061 060 065,Kampot
+244,Heng Rathana,F,080 064 024,Banteay Meanchey
+245,Toch Sreytouch,F,085 009 005,Battambang
+246,Theng Sok,F,031 100 092,Mondulkiri
+247,Toch Nita,F,077 011 045,Preah Sihanouk
+248,Thy Sok,F,077 096 061,Tboung Khmum
+249,Pich Srey,M,098 005 018,Ratanakiri
+250,Toch Piseth,F,090 023 027,Phnom Penh
+251,Tol Rina,M,070 074 014,Pailin
+252,Thy Sokha,M,013 056 081,Kep
+253,Vann Veasna,F,097 083 093,Svay Rieng
+254,Kim Chan,M,016 071 046,Prey Veng
+255,Pich Chenda,M,013 094 096,Pursat
+256,Chhay Sreytouch,F,096 064 024,Takeo
+257,Pich Ratanak,M,068 089 078,Kampong Cham
+258,Vong Sovan,M,012 010 063,Takeo
+259,Thach Sokun,F,081 091 068,Phnom Penh
+260,Chuon Rithy,M,092 007 005,Phnom Penh
+261,Heng Sophea,F,097 096 077,Kandal
+262,Heng Monineath,M,095 083 061,Phnom Penh
+263,Thach Srey,F,084 007 083,Banteay Meanchey
+264,Vann Sokhom,M,086 097 046,Tboung Khmum
+265,Vann Ratanak,F,077 028 007,Pursat
+266,Keo Rina,F,086 045 085,Preah Vihear
+267,Tith Narin,F,010 027 006,Mondulkiri
+268,Ung Chan,F,068 012 041,Kandal
+269,Tol Ravy,M,066 016 043,Phnom Penh
+270,Sam Chenda,F,068 002 093,Svay Rieng
+271,Theng Ratanak,M,060 004 026,Banteay Meanchey
+272,Pich Vanna,M,012 096 093,Siem Reap
+273,Yin Ravy,F,066 069 070,Mondulkiri
+274,Yin Rathana,F,038 074 080,Ratanakiri
+275,Heng Visal,F,086 070 013,Kratie
+276,Mao Narin,F,087 011 014,Banteay Meanchey
+277,Tol Vanna,F,093 042 062,Mondulkiri
+278,Ngoun Chenda,F,080 084 018,Kampong Cham
+279,Chhim Chan,M,079 054 091,Mondulkiri
+280,Thy Rathana,M,085 030 069,Banteay Meanchey
+281,Theng Sreyneang,M,012 058 093,Battambang
+282,Tol Sok,F,080 093 032,Preah Vihear
+283,Kong Sophea,M,061 081 026,Battambang
+284,Chuon Sovann,M,090 072 054,Stung Treng
+285,Keo Sokun,M,066 076 085,Kratie
+286,Heng Chhun,M,085 043 074,Kandal
+287,Vann Srey,F,089 029 066,Svay Rieng
+288,Tang Narin,M,081 022 047,Banteay Meanchey
+289,Thay Srey,M,060 070 076,Banteay Meanchey
+290,Yon Rithy,M,089 047 079,Kampong Chhnang
+291,Ouk Srey,F,060 057 057,Kampot
+292,Kim Chhun,M,066 039 041,Stung Treng
+293,Sam Sokchea,F,066 017 054,Phnom Penh
+294,Rath Ratanak,F,071 094 097,Prey Veng
+295,Ung Ravy,M,012 009 002,Kampong Chhnang
+296,Kim Visal,F,079 051 080,Siem Reap
+297,Vann Sreyneang,M,080 023 086,Siem Reap
+298,Rath Rina,M,097 045 025,Kampot
+299,Chhim Dara,M,096 006 075,Ratanakiri
+300,Rath Piseth,F,089 048 021,Siem Reap
+301,Suon Sopheap,F,088 091 035,Pursat
+302,Pich Sokha,M,015 038 097,Pursat
+303,Pich Chhun,M,067 002 056,Kratie
+304,Theng Srey,M,015 089 085,Kampong Chhnang
+305,Chan Rina,F,096 068 075,Battambang
+306,Ung Sokchea,F,076 054 031,Kampot
+307,Chan Veasna,M,077 086 091,Mondulkiri
+308,Ngoun Sokhom,F,011 054 072,Kratie
+309,Theng Dara,F,071 083 090,Koh Kong
+310,Mao Rathana,M,085 001 037,Pailin
+311,Chuon Chhun,F,016 096 084,Tboung Khmum
+312,Chan Ravy,F,085 014 071,Pailin
+313,Rath Sokhom,M,098 095 088,Tboung Khmum
+314,Chhay Rithy,F,085 065 038,Stung Treng
+315,Yin Chhun,F,087 040 069,Kampot
+316,Yon Sokchea,F,095 008 040,Kratie
+317,Ung Chhun,M,084 021 089,Kratie
+318,Thach Bopha,M,099 028 098,Mondulkiri
+319,Tith Nita,F,081 036 035,Battambang
+320,Tith Sokun,F,085 027 094,Siem Reap
+321,Rath Sokchea,M,069 100 099,Banteay Meanchey
+322,Heng Sokun,F,093 012 054,Kampong Cham
+323,Kong Rina,M,097 056 014,Koh Kong
+324,Yon Ratanak,F,066 075 045,Kampong Cham
+325,Ouk Sophea,F,098 060 096,Battambang
+326,Rath Chenda,M,090 018 059,Oddar Meanchey
+327,You Sophea,M,099 014 082,Banteay Meanchey
+328,Tang Monineath,M,092 062 093,Preah Sihanouk
+329,Heng Sokha,F,087 032 073,Preah Vihear
+330,Vann Piseth,M,068 078 051,Kampong Chhnang
+331,Vong Ratanak,F,083 070 088,Tboung Khmum
+332,Suon Sok,F,095 038 061,Oddar Meanchey
+333,Chhim Sok,M,096 042 025,Kep
+334,Suon Bopha,M,097 006 093,Preah Vihear
+335,Chhay Dara,F,089 081 063,Kampong Thom
+336,Chea Rithy,F,069 010 093,Kampot
+337,Toch Sok,F,067 029 072,Preah Vihear
+338,Chan Sovann,M,069 084 042,Kampong Cham
+339,Heng Chenda,F,093 052 022,Mondulkiri
+340,Tith Dara,M,083 059 070,Banteay Meanchey
+341,Kong Bopha,M,089 082 009,Tboung Khmum
+342,Chhim Piseth,M,098 061 081,Kandal
+343,Ouk Veasna,F,068 009 034,Pursat
+344,Chhay Bopha,F,092 003 094,Oddar Meanchey
+345,Ouk Rina,F,018 084 014,Ratanakiri
+346,Pich Sovan,F,084 028 094,Kampot
+347,Suon Sokchea,F,011 005 100,Mondulkiri
+348,Rath Thida,M,069 079 029,Kep
+349,Ngoun Thida,M,077 033 088,Stung Treng
+350,Heng Vanna,F,086 057 018,Kep
+351,You Chan,M,010 019 083,Kampot
+352,Yun Sokchea,F,015 054 039,Tboung Khmum
+353,Kong Dara,F,085 045 083,Phnom Penh
+354,Theng Sokun,M,071 050 018,Kampong Cham
+355,Toch Sokha,M,088 085 096,Preah Sihanouk
+356,Kong Veasna,M,061 080 073,Svay Rieng
+357,Thy Sopheap,F,031 050 048,Preah Sihanouk
+358,Toch Sovan,M,099 092 096,Kandal
+359,Tol Rathana,F,061 045 095,Kampong Speu
+360,Thy Rithy,F,060 009 010,Kampot
+361,Ung Nita,F,083 006 029,Kampong Thom
+362,Keo Sokchea,F,099 005 046,Pursat
+363,Lim Bopha,F,083 009 026,Kratie
+364,Heng Sovan,F,066 084 002,Tboung Khmum
+365,Thy Sokchea,F,038 062 099,Banteay Meanchey
+366,Theng Veasna,M,071 080 098,Kampong Speu
+367,Ung Rithy,F,018 034 051,Kampong Cham
+368,Suon Monineath,M,067 067 019,Kampong Chhnang
+369,Vong Rithy,F,067 012 040,Pursat
+370,Heng Bopha,F,095 025 062,Kratie
+371,Keo Nita,F,015 068 036,Preah Sihanouk
+372,Mao Rina,F,078 041 079,Tboung Khmum
+373,Yun Ravy,F,038 027 070,Tboung Khmum
+374,Theng Monineath,M,085 087 070,Pailin
+375,Toch Sokun,F,080 093 033,Banteay Meanchey
+376,Chuon Ratanak,F,097 061 083,Mondulkiri
+377,Chan Dara,M,081 084 082,Kampong Cham
+378,Yun Sovanna,F,010 011 016,Ratanakiri
+379,Tang Rithy,F,011 004 063,Oddar Meanchey
+380,Chan Sopheap,F,013 059 006,Kampong Chhnang
+381,Tith Sovan,M,080 083 070,Battambang
+382,Seng Chenda,M,061 009 088,Battambang
+383,Yon Monineath,F,060 002 052,Takeo
+384,Rath Sokun,M,087 096 068,Kampot
+385,Chan Sokha,M,096 066 071,Kampong Cham
+386,Kong Srey,M,013 025 015,Phnom Penh
+387,Ouk Sok,F,015 049 011,Siem Reap
+388,Thach Sreyneang,F,031 001 009,Preah Vihear
+389,Keo Dara,F,076 053 065,Pursat
+390,Pich Sokchea,F,098 036 021,Battambang
+391,Tith Vanna,F,071 002 039,Battambang
+392,Heng Sreyneang,F,089 004 020,Svay Rieng
+393,Pich Thida,F,084 001 071,Prey Veng
+394,Mao Sopheap,M,076 070 041,Koh Kong
+395,Chuon Sreytouch,M,089 049 085,Kampot
+396,Ngoun Sovanna,F,086 057 038,Takeo
+397,Chea Vanna,M,087 097 003,Kampong Chhnang
+398,Ouk Sokha,F,012 035 019,Preah Vihear
+399,Sam Sophea,F,018 029 008,Kampong Cham
+400,Mao Sovan,F,087 079 006,Kampong Cham
+401,Chuon Sreyneang,M,060 074 001,Preah Sihanouk
+402,Tith Rathana,M,068 033 074,Preah Sihanouk
+403,Kong Ratanak,M,017 019 032,Kratie
+404,Vong Piseth,F,083 033 058,Ratanakiri
+405,Pich Monineath,M,067 081 043,Kampot
+406,Vong Vanna,M,070 049 009,Koh Kong
+407,Kong Chhun,M,086 009 066,Kampong Cham
+408,Kim Sokhom,M,095 011 054,Mondulkiri
+409,Kong Sopheap,F,069 014 021,Kampong Thom
+410,Yin Veasna,M,078 010 081,Kandal
+411,Chea Sreyneang,M,088 056 055,Preah Sihanouk
+412,Rath Sovann,F,080 015 084,Stung Treng
+413,Rath Monineath,F,083 017 040,Kampong Chhnang
+414,Yun Srey,M,071 089 093,Takeo
+415,Thay Narin,F,083 001 041,Pailin
+416,Chhay Sok,M,015 099 047,Kep
+417,Chea Veasna,F,092 046 075,Kampong Speu
+418,Kong Sovan,F,017 062 097,Kratie
+419,Pich Sophea,M,013 024 009,Pursat
+420,Seng Sovann,F,018 085 096,Oddar Meanchey
+421,Vong Ravy,F,078 044 072,Pailin
+422,Seng Srey,F,015 081 010,Banteay Meanchey
+423,Kim Sreyneang,M,093 038 035,Ratanakiri
+424,Seng Rina,M,081 063 021,Kampong Cham
+425,Toch Sopheap,M,099 085 005,Ratanakiri
+426,Yon Ravy,F,066 061 044,Oddar Meanchey
+427,Yun Sok,F,069 057 054,Stung Treng
+428,Yun Dara,M,081 029 075,Svay Rieng
+429,Chuon Rathana,F,095 049 045,Kandal
+430,Ouk Ravy,F,080 012 041,Mondulkiri
+431,Chhay Visal,M,080 021 016,Preah Sihanouk
+432,Chhim Rithy,M,090 091 023,Mondulkiri
+433,Kong Narin,M,097 024 024,Siem Reap
+434,Thay Sovann,M,092 073 082,Preah Vihear
+435,You Dara,F,012 098 026,Banteay Meanchey
+436,Seng Ratanak,M,061 074 083,Prey Veng
+437,You Sokchea,M,090 054 087,Kampong Cham
+438,Keo Monineath,F,013 073 084,Tboung Khmum
+439,Chuon Nita,M,069 032 085,Kampot
+440,Mao Sok,F,081 079 077,Kampong Cham
+441,Rath Sok,F,098 042 086,Kep
+442,Kong Ravy,F,088 061 017,Phnom Penh
+443,Chhim Sreytouch,F,017 022 018,Takeo
+444,Yon Sokhom,M,060 075 022,Kratie
+445,Sam Sovan,F,087 055 052,Siem Reap
+446,Chhay Srey,M,084 005 025,Svay Rieng
+447,Pich Rathana,F,090 049 022,Preah Sihanouk
+448,Thach Thida,F,087 043 095,Takeo
+449,Heng Narin,M,068 016 045,Pursat
+450,Ngoun Visal,M,097 062 004,Stung Treng
+451,Thy Chhun,F,087 094 003,Kandal
+452,Thy Ratanak,M,079 027 093,Preah Vihear
+453,Tang Sreyneang,M,067 060 032,Stung Treng
+454,Thach Monineath,M,017 068 026,Kampong Chhnang
+455,Chea Bopha,F,038 082 046,Kampong Chhnang
+456,Pich Veasna,F,069 004 050,Stung Treng
+457,Chuon Ravy,M,086 015 071,Mondulkiri
+458,Theng Piseth,M,010 024 046,Preah Vihear
+459,Ung Sopheap,M,038 003 071,Prey Veng
+460,Sam Sovann,M,076 060 046,Kampot
+461,Yon Sophea,M,084 043 056,Kampot
+462,Seng Veasna,F,068 072 066,Mondulkiri
+463,Vann Sophea,F,099 041 075,Kep
+464,Chhay Sovan,M,070 052 023,Pailin
+465,Vann Visal,M,066 067 015,Pursat
+466,Vann Chenda,M,016 054 017,Kampong Cham
+467,Toch Thida,M,085 027 031,Oddar Meanchey
+468,Thy Sokun,F,089 014 004,Ratanakiri
+469,Sam Sokun,F,087 005 016,Ratanakiri
+470,Chhim Sovann,M,081 043 045,Kampong Chhnang
+471,Yin Chenda,M,093 082 073,Kratie
+472,Tol Sopheap,F,060 024 039,Oddar Meanchey
+473,Mao Chhun,F,013 011 100,Takeo
+474,Seng Sovanna,M,010 032 032,Mondulkiri
+475,Thay Sopheap,M,017 065 084,Mondulkiri
+476,Thy Nita,M,087 073 025,Kampong Thom
+477,Tang Piseth,M,088 033 028,Preah Sihanouk
+478,Yun Rathana,M,085 057 038,Tboung Khmum
+479,Tang Chan,M,080 039 055,Phnom Penh
+480,Thy Sovann,M,083 044 030,Pailin
+481,Theng Vanna,M,016 013 094,Kampong Thom
+482,Heng Sokhom,F,084 018 065,Kep
+483,Tang Rina,M,086 014 094,Pailin
+484,You Sok,M,086 060 052,Kampong Chhnang
+485,Keo Piseth,M,089 050 019,Takeo
+486,Chuon Srey,M,018 008 024,Pursat
+487,Yon Chhun,M,084 049 094,Phnom Penh
+488,You Sokun,F,089 006 082,Kampong Speu
+489,Mao Chenda,M,097 068 023,Kandal
+490,Yon Chenda,F,086 028 023,Oddar Meanchey
+491,Yin Rina,F,015 095 055,Tboung Khmum
+492,Keo Sreytouch,M,088 093 072,Kandal
+493,Lim Rithy,F,068 030 068,Preah Vihear
+494,Mao Sokun,M,088 013 092,Kandal
+495,Ouk Rithy,F,097 076 044,Kandal
+496,Tith Chenda,M,081 054 083,Oddar Meanchey
+497,Chhim Ratanak,M,038 082 047,Preah Vihear
+498,Kong Vanna,F,011 026 064,Preah Sihanouk
+499,Seng Chan,M,069 056 079,Ratanakiri
+500,Tol Chenda,M,097 018 035,Phnom Penh
+501,Ouk Sokchea,F,060 053 093,Siem Reap
+502,Rath Sovanna,F,086 050 083,Phnom Penh
+503,Lim Nita,F,079 074 032,Tboung Khmum
+504,Kim Sokha,M,011 089 030,Takeo
+505,Ouk Chenda,M,011 020 098,Phnom Penh
+506,Pich Sokun,F,038 078 080,Phnom Penh
+507,Ung Thida,M,088 008 015,Stung Treng
+508,Tol Monineath,M,038 066 040,Preah Vihear
+509,Heng Nita,F,079 074 095,Kampong Speu
+510,Theng Narin,M,096 071 002,Siem Reap
+511,Yin Nita,F,083 003 047,Stung Treng
+512,You Piseth,F,015 004 006,Preah Sihanouk
+513,Vann Rina,F,084 047 083,Pursat
+514,Lim Sok,F,099 038 043,Kampong Thom
+515,Suon Sovan,F,038 081 068,Kandal
+516,Ung Sophea,M,095 048 075,Preah Vihear
+517,Keo Bopha,M,060 011 091,Koh Kong
+518,Tang Ratanak,F,077 033 049,Kampot
+519,Thay Sokun,M,083 014 030,Pailin
+520,Tang Sokun,F,098 012 005,Tboung Khmum
+521,Sam Rina,F,067 058 060,Siem Reap
+522,Chhim Vanna,M,013 002 062,Takeo
+523,Thach Rithy,M,060 075 040,Takeo
+524,Thay Bopha,F,079 095 009,Pursat
+525,Chea Rathana,M,017 071 021,Banteay Meanchey
+526,Kim Monineath,F,010 073 072,Pursat
+527,Theng Rina,M,097 010 090,Banteay Meanchey
+528,Keo Chan,F,069 066 019,Stung Treng
+529,Chhim Srey,F,081 097 086,Kampong Cham
+530,Ngoun Sokchea,F,096 065 083,Kampot
+531,Toch Rathana,M,098 042 037,Svay Rieng
+532,Yin Sokha,F,013 049 016,Pailin
+533,Ung Bopha,F,081 036 076,Tboung Khmum
+534,Pich Sokhom,F,097 009 022,Oddar Meanchey
+535,Ngoun Sokun,F,098 076 015,Pursat
+536,Sam Chan,M,099 034 039,Ratanakiri
+537,Thach Sokhom,F,084 021 077,Battambang
+538,Seng Thida,M,068 075 092,Kampong Thom
+539,Rath Narin,M,086 099 028,Kampot
+540,Theng Thida,F,098 071 067,Tboung Khmum
+541,Tol Bopha,M,060 055 099,Kandal
+542,Toch Chhun,F,068 001 041,Stung Treng
+543,Yun Nita,F,016 030 062,Kampong Cham
+544,Yin Rithy,F,092 015 059,Kampong Speu
+545,Yon Rina,F,095 023 023,Kampong Thom
+546,Theng Sovann,F,079 070 045,Kep
+547,Vong Sopheap,M,092 004 059,Ratanakiri
+548,Chan Sokchea,M,012 060 091,Tboung Khmum
+549,Vong Veasna,F,083 014 011,Prey Veng
+550,Lim Sopheap,M,012 051 055,Prey Veng
+551,You Rathana,M,078 072 087,Ratanakiri
+552,Chan Sophea,F,018 021 087,Tboung Khmum
+553,Yin Srey,M,060 024 023,Koh Kong
+554,Tith Sovanna,F,098 039 034,Banteay Meanchey
+555,Ung Sokun,M,076 099 012,Prey Veng
+556,You Bopha,F,090 043 061,Kampong Chhnang
+557,Ouk Sreyneang,M,097 085 015,Kandal
+558,Heng Rina,F,081 054 097,Kratie
+559,Vong Sovann,F,078 053 033,Oddar Meanchey
+560,Tol Thida,M,011 023 047,Kampong Chhnang
+561,Chea Rina,M,069 025 089,Preah Vihear
+562,Chea Sovan,M,071 086 093,Kep
+563,Chuon Sopheap,M,067 080 051,Kampong Thom
+564,Seng Dara,F,013 044 036,Kampong Thom
+565,Sam Piseth,M,085 089 025,Siem Reap
+566,Kong Monineath,M,013 084 062,Kandal
+567,Chhim Sreyneang,M,078 012 089,Kep
+568,Vann Sovanna,F,010 088 062,Takeo
+569,Kim Nita,F,084 056 088,Oddar Meanchey
+570,Tang Dara,F,095 057 096,Phnom Penh
+571,Sam Sopheap,F,069 043 068,Phnom Penh
+572,Lim Chhun,F,095 027 065,Svay Rieng
+573,Thach Dara,M,087 051 007,Mondulkiri
+574,Vann Sokha,M,066 013 013,Pursat
+575,Yin Piseth,M,013 002 048,Pailin
+576,Ouk Sopheap,F,087 085 001,Battambang
+577,Chhay Sokchea,F,015 062 033,Oddar Meanchey
+578,Keo Visal,M,078 056 071,Battambang
+579,Thy Srey,F,086 054 072,Kratie
+580,Chhay Chenda,M,017 099 045,Kampong Speu
+581,Yon Bopha,F,031 018 014,Preah Vihear
+582,Yon Sokha,M,018 092 043,Preah Vihear
+583,Theng Chan,F,086 033 042,Koh Kong
+584,Yin Narin,F,069 008 041,Tboung Khmum
+585,You Sovan,M,089 057 075,Preah Sihanouk
+586,Rath Sovan,M,097 076 013,Preah Vihear
+587,Thay Chhun,M,018 052 086,Koh Kong
+588,Chea Sokchea,F,092 019 088,Preah Sihanouk
+589,Thay Dara,M,066 045 064,Ratanakiri
+590,Mao Rithy,F,061 004 077,Kampong Chhnang
+591,Yun Chan,F,083 047 026,Kampong Cham
+592,Thach Sokha,F,015 071 033,Kampong Chhnang
+593,Chhim Sokchea,F,071 029 007,Oddar Meanchey
+594,Chea Ravy,M,038 012 039,Takeo
+595,Ngoun Chan,M,015 074 051,Svay Rieng
+596,Lim Chan,F,076 083 086,Siem Reap
+597,Seng Ravy,F,018 065 025,Kep
+598,Vong Rathana,M,038 001 017,Kampong Thom
+599,Chea Chhun,F,077 070 020,Battambang
+600,Heng Rithy,F,097 098 005,Pursat
+601,Tith Monineath,F,016 056 075,Takeo
+602,Toch Sovanna,F,098 042 017,Kratie
+603,Tang Thida,M,093 008 021,Ratanakiri
+604,Theng Bopha,F,015 080 052,Ratanakiri
+605,Ngoun Rithy,F,076 082 090,Stung Treng
+606,Tith Sokha,M,078 027 046,Kandal
+607,Vong Sokun,F,060 007 062,Takeo
+608,Sam Dara,F,084 063 053,Kratie
+609,Yun Thida,F,088 064 010,Kampong Speu
+610,Chuon Visal,F,010 033 060,Battambang
+611,Vann Narin,M,098 096 051,Mondulkiri
+612,Ung Rina,M,086 051 075,Koh Kong
+613,Keo Ravy,M,089 069 042,Koh Kong
+614,Thy Ravy,F,097 020 084,Pailin
+615,Lim Sokchea,F,080 054 044,Koh Kong
+616,Chhim Visal,F,069 052 060,Kampong Chhnang
+617,Tith Sreytouch,F,092 030 022,Preah Sihanouk
+618,Ouk Sokhom,F,015 078 058,Mondulkiri
+619,Yon Nita,M,068 042 023,Svay Rieng
+620,Ngoun Sreyneang,M,078 064 006,Kandal
+621,Keo Narin,F,080 087 085,Kampong Cham
+622,Tith Veasna,M,099 038 046,Oddar Meanchey
+623,Toch Sokhom,F,093 019 058,Preah Sihanouk
+624,Lim Chenda,F,077 013 043,Kampong Chhnang
+625,Suon Rathana,F,079 028 097,Stung Treng
+626,Mao Sokhom,M,076 001 072,Koh Kong
+627,You Thida,F,066 098 027,Kampong Thom
+628,You Visal,M,015 053 030,Oddar Meanchey
+629,Heng Srey,F,090 035 048,Ratanakiri
+630,Suon Rithy,M,013 043 084,Pailin
+631,Tith Srey,M,076 013 014,Stung Treng
+632,Pich Sok,F,070 029 020,Takeo
+633,Yin Monineath,M,067 068 097,Phnom Penh
+634,Yin Sovanna,M,088 019 043,Mondulkiri
+635,Tang Chenda,M,098 058 014,Kampong Chhnang
+636,Lim Thida,F,031 040 068,Kampot
+637,Sam Sok,M,088 012 032,Tboung Khmum
+638,Thach Nita,F,090 095 009,Kep
+639,Kong Rithy,M,031 063 093,Kep
+640,Pich Sreytouch,F,015 033 092,Tboung Khmum
+641,Chan Monineath,F,010 077 099,Pursat
+642,Keo Sokha,M,061 011 068,Kampong Speu
+643,Thay Sreytouch,M,031 053 076,Kampong Cham
+644,Pich Rithy,F,095 045 020,Preah Vihear
+645,You Sopheap,M,098 059 040,Phnom Penh
+646,Suon Ravy,F,093 065 079,Koh Kong
+647,Tang Nita,M,095 038 027,Mondulkiri
+648,Theng Visal,M,011 023 029,Prey Veng
+649,Lim Sreytouch,M,012 077 007,Kampong Chhnang
+650,Mao Sovann,M,066 064 077,Battambang
+651,Ung Sovann,F,067 100 067,Kampot
+652,Kong Rathana,F,071 002 083,Kandal
+653,Thy Piseth,F,069 080 095,Oddar Meanchey
+654,You Veasna,M,083 022 029,Kampong Thom
+655,Yin Bopha,F,081 029 054,Pailin
+656,Seng Sokha,F,086 034 057,Takeo
+657,Chhim Veasna,F,084 055 037,Ratanakiri
+658,Chhay Rathana,M,085 040 035,Kampong Speu
+659,Lim Sophea,M,011 031 022,Preah Vihear
+660,Kim Sophea,F,061 080 095,Prey Veng
+661,Kim Sreytouch,F,013 056 065,Kampong Thom
+662,Ouk Narin,M,015 069 038,Ratanakiri
+663,Theng Chenda,M,068 017 087,Ratanakiri
+664,Keo Sovanna,F,013 091 066,Tboung Khmum
+665,Vann Bopha,F,098 065 025,Banteay Meanchey
+666,Thach Sopheap,M,097 075 005,Kampong Chhnang
+667,Tith Sopheap,F,017 009 086,Svay Rieng
+668,Theng Sokchea,F,068 086 081,Pailin
+669,Ngoun Bopha,F,099 043 050,Ratanakiri
+670,Yin Dara,F,061 059 023,Tboung Khmum
+671,Tol Sreyneang,M,017 018 064,Kep
+672,Yun Veasna,F,081 007 082,Kampong Speu
+673,Tith Sokchea,F,093 094 091,Tboung Khmum
+674,Suon Visal,M,093 054 083,Kampong Thom
+675,Chhim Sophea,F,010 024 081,Kampot
+676,Kim Sok,M,087 017 019,Kratie
+677,Lim Vanna,F,093 086 012,Prey Veng
+678,Ung Rathana,F,080 089 042,Kampong Cham
+679,Kong Chenda,F,069 016 049,Koh Kong
+680,Mao Chan,F,081 021 065,Ratanakiri
+681,Theng Rathana,F,076 021 084,Takeo
+682,Thach Sovann,M,013 061 043,Prey Veng
+683,Tith Chhun,F,093 057 036,Stung Treng
+684,Ngoun Sokha,M,081 010 057,Mondulkiri
+685,Yin Sopheap,F,076 065 032,Preah Vihear
+686,Keo Sovann,F,017 017 028,Kampong Cham
+687,Ouk Monineath,M,085 074 050,Kratie
+688,Thach Rathana,M,076 097 042,Ratanakiri
+689,Tith Sreyneang,M,093 095 030,Banteay Meanchey
+690,Sam Monineath,M,013 011 099,Stung Treng
+691,Kim Narin,M,061 048 061,Preah Sihanouk
+692,Chhim Sokha,M,070 085 082,Kratie
+693,Seng Visal,M,093 015 090,Kampong Thom
+694,Chea Nita,M,067 044 077,Tboung Khmum
+695,Ngoun Vanna,F,096 092 042,Kampong Cham
+696,Chhay Ravy,F,011 008 032,Kandal
+697,Tith Chan,M,084 050 066,Kandal
+698,Kong Sok,F,016 066 038,Battambang
+699,Sam Nita,F,077 067 100,Kampong Speu
+700,Chhay Nita,M,092 030 084,Kampot
+701,Chhay Piseth,M,081 086 026,Banteay Meanchey
+702,Vann Vanna,M,071 045 098,Pursat
+703,Toch Chenda,M,031 035 022,Battambang
+704,Chan Piseth,M,016 077 064,Kampong Thom
+705,Theng Rithy,M,085 030 019,Kampong Speu
+706,You Monineath,F,076 023 083,Kampot
+707,Tith Sovann,M,067 083 071,Ratanakiri
+708,Suon Chhun,M,083 009 039,Kampot
+709,Vann Nita,F,015 025 064,Preah Vihear
+710,Kong Sokhom,F,013 012 028,Kampong Thom
+711,Mao Piseth,F,095 026 097,Kampong Chhnang
+712,Tol Sophea,M,080 085 004,Kampong Thom
+713,Thy Bopha,F,095 005 046,Stung Treng
+714,Chhim Nita,F,095 062 029,Pailin
+715,Sam Sokhom,F,031 049 045,Siem Reap
+716,Pich Bopha,F,090 068 031,Kampong Thom
+717,Suon Veasna,M,092 045 080,Kampong Speu
+718,Tith Thida,M,016 095 060,Tboung Khmum
+719,Rath Chhun,F,085 077 076,Preah Sihanouk
+720,Toch Vanna,M,083 036 025,Kampong Cham
+721,Sam Narin,M,080 038 079,Preah Vihear
+722,Chuon Veasna,M,090 089 057,Siem Reap
+723,Ngoun Veasna,M,078 023 042,Ratanakiri
+724,Thay Chenda,M,088 033 053,Prey Veng
+725,Rath Ravy,F,060 099 036,Kratie
+726,Chea Sopheap,M,080 052 044,Kampong Cham
+727,Kong Piseth,M,068 015 069,Preah Sihanouk
+728,Thy Sreytouch,F,085 052 001,Phnom Penh
+729,Lim Ravy,F,083 062 090,Siem Reap
+730,Tol Sovanna,M,088 080 027,Ratanakiri
+731,Chuon Sovan,M,012 012 002,Svay Rieng
+732,Chhay Sopheap,F,012 077 017,Kep
+733,Lim Piseth,M,076 093 054,Oddar Meanchey
+734,Vong Srey,F,016 071 069,Phnom Penh
+735,Yin Sokhom,F,079 023 040,Siem Reap
+736,Chuon Sovanna,M,099 009 059,Kep
+737,Vann Sokun,F,097 065 072,Kandal
+738,You Chhun,M,093 064 064,Oddar Meanchey
+739,Thy Vanna,F,068 024 047,Kampong Thom
+740,Yon Dara,M,093 073 052,Siem Reap
+741,Yon Sovanna,F,069 010 071,Ratanakiri
+742,Tang Sovann,F,098 042 083,Pursat
+743,Toch Narin,F,079 003 078,Kandal
+744,Yun Sovan,M,031 075 017,Kampong Speu
+745,Seng Sokhom,F,097 075 070,Battambang
+746,Ung Veasna,M,097 100 021,Koh Kong
+747,Seng Narin,F,071 006 013,Kep
+748,Chhim Bopha,F,015 028 091,Oddar Meanchey
+749,Thach Chhun,F,093 078 054,Kampong Thom
+750,Ung Dara,F,012 091 075,Pailin
+751,Vong Sophea,M,079 086 017,Tboung Khmum
+752,Heng Thida,M,010 045 060,Pailin
+753,Ngoun Rathana,F,083 056 037,Siem Reap
+754,Ung Narin,M,087 031 060,Banteay Meanchey
+755,Toch Chan,M,093 008 058,Kampong Chhnang
+756,Tang Sokhom,F,097 056 036,Ratanakiri
+757,Thy Sovanna,F,069 011 030,Mondulkiri
+758,Lim Dara,M,088 066 034,Preah Sihanouk
+759,Seng Rithy,M,060 040 083,Siem Reap
+760,Yun Bopha,M,070 036 055,Svay Rieng
+761,Theng Sophea,M,066 073 073,Kratie
+762,Toch Veasna,M,078 071 064,Preah Vihear
+763,Chan Bopha,F,071 094 084,Takeo
+764,Sam Rithy,M,097 014 058,Tboung Khmum
+765,Thach Ratanak,M,013 022 065,Stung Treng
+766,Seng Chhun,M,017 076 069,Siem Reap
+767,Yin Vanna,F,081 056 044,Kampong Speu
+768,Suon Sreytouch,F,086 027 060,Pailin
+769,Ung Sok,M,076 036 017,Banteay Meanchey
+770,Vong Sokha,F,077 036 031,Koh Kong
+771,Tol Sokun,F,081 072 078,Kratie
+772,Rath Visal,M,016 032 058,Kampong Chhnang
+773,Thach Sok,M,099 060 086,Pursat
+774,Thay Ravy,F,015 047 073,Battambang
+775,Rath Chan,M,088 025 039,Pailin
+776,Thach Narin,M,081 073 057,Battambang
+777,Seng Nita,F,097 093 095,Kampong Speu
+778,Vann Rathana,F,071 016 052,Pailin
+779,Chan Sreyneang,F,079 070 040,Siem Reap
+780,Thy Sophea,F,077 093 098,Kampong Thom
+781,Thay Sovanna,M,099 021 010,Kratie
+782,Seng Piseth,M,085 056 068,Kep
+783,Tith Bopha,M,090 017 001,Takeo
+784,Chhim Sokun,F,084 013 009,Oddar Meanchey
+785,Tith Piseth,F,083 068 078,Battambang
+786,Chuon Rina,M,076 018 080,Takeo
+787,Kim Sovan,M,016 017 091,Tboung Khmum
+788,Chhay Veasna,F,092 071 095,Oddar Meanchey
+789,Chan Chenda,F,038 009 075,Prey Veng
+790,Pich Nita,M,084 056 024,Phnom Penh
+791,Heng Chan,F,081 030 045,Pailin
+792,Thach Ravy,M,095 028 100,Banteay Meanchey
+793,Pich Dara,F,015 044 080,Takeo
+794,Thay Sokhom,M,069 081 061,Kampot
+795,Thy Chenda,F,086 048 009,Pailin
+796,Tol Sokhom,F,097 004 041,Pailin
+797,Yin Thida,M,087 016 099,Preah Sihanouk
+798,Chuon Monineath,M,069 018 070,Banteay Meanchey
+799,Mao Veasna,M,089 020 023,Pailin
+800,Suon Rina,M,069 094 041,Koh Kong
+801,Kim Dara,F,081 006 087,Pailin
+802,Chuon Chenda,F,096 056 084,Ratanakiri
+803,Chhim Sokhom,F,016 095 089,Phnom Penh
+804,Suon Chenda,M,067 082 059,Kampot
+805,Vong Narin,M,071 070 069,Oddar Meanchey
+806,Yon Rathana,F,086 089 083,Prey Veng
+807,Lim Sovan,M,013 026 047,Pursat
+808,Kim Ratanak,M,092 056 004,Mondulkiri
+809,Chea Dara,F,092 021 025,Kampong Thom
+810,Lim Srey,F,097 020 081,Kampot
+811,Ouk Visal,M,081 006 054,Pursat
+812,Lim Narin,M,018 007 009,Ratanakiri
+813,Chhay Chhun,M,011 054 080,Battambang
+814,Heng Veasna,M,096 036 036,Prey Veng
+815,Ngoun Piseth,F,067 042 085,Phnom Penh
+816,Heng Sopheap,F,081 024 065,Battambang
+817,Yon Thida,M,081 032 056,Takeo
+818,Sam Sovanna,F,016 046 088,Ratanakiri
+819,Thy Rina,M,070 085 031,Mondulkiri
+820,Keo Sok,F,016 080 039,Takeo
+821,Chea Sovann,F,089 093 067,Stung Treng
+822,Yun Sopheap,M,083 004 034,Kampong Speu
+823,Rath Sophea,M,016 070 051,Kampot
+824,You Srey,M,016 041 022,Banteay Meanchey
+825,Chuon Vanna,M,095 002 012,Mondulkiri
+826,Yun Monineath,F,084 045 031,Stung Treng
+827,Heng Sokchea,F,095 009 014,Pursat
+828,Tang Ravy,M,085 100 009,Svay Rieng
+829,Seng Sovan,M,067 016 025,Kep
+830,Thay Rithy,F,078 080 063,Kep
+831,Chea Sophea,F,016 032 086,Phnom Penh
+832,Theng Nita,F,096 081 063,Banteay Meanchey
+833,Chhay Ratanak,F,089 036 015,Pursat
+834,Thy Thida,M,084 042 007,Kampot
+835,Ouk Piseth,F,012 081 025,Kep
+836,Chuon Sokhom,M,018 040 038,Svay Rieng
+837,Yon Sreytouch,M,087 068 062,Prey Veng
+838,Ouk Sreytouch,M,089 059 022,Prey Veng
+839,Pich Sovann,M,016 044 092,Svay Rieng
+840,Pich Sreyneang,M,088 099 050,Preah Sihanouk
+841,You Sreytouch,F,013 075 098,Preah Vihear
+842,Lim Sreyneang,F,067 045 066,Kandal
+843,Ouk Sokun,F,012 082 063,Mondulkiri
+844,Ung Ratanak,M,066 068 016,Prey Veng
+845,Theng Sovan,M,016 082 052,Preah Vihear
+846,Suon Vanna,F,068 021 083,Kampong Thom
+847,Seng Sopheap,F,077 087 022,Svay Rieng
+848,Keo Sokhom,M,067 056 051,Banteay Meanchey
+849,Tang Veasna,F,015 029 017,Mondulkiri
+850,Chan Sok,F,099 013 056,Phnom Penh
+851,Pich Sovanna,F,093 070 041,Mondulkiri
+852,Suon Sovanna,M,018 077 086,Banteay Meanchey
+853,Sam Veasna,F,093 018 033,Svay Rieng
+854,Kim Thida,M,066 068 056,Kampong Speu
+855,Seng Sreyneang,F,080 096 077,Phnom Penh
+856,Theng Sokha,M,031 079 043,Phnom Penh
+857,Chea Sreytouch,F,092 034 085,Pursat
+858,You Rithy,F,093 092 056,Phnom Penh
+859,Yon Piseth,F,071 075 024,Mondulkiri
+860,Toch Dara,F,093 023 066,Oddar Meanchey
+861,Thy Sovan,F,011 021 094,Banteay Meanchey
+862,Yin Sophea,F,081 086 073,Pailin
+863,Seng Sokchea,F,038 099 046,Svay Rieng
+864,Rath Sokha,M,069 009 018,Kampong Cham
+865,Ngoun Srey,M,010 049 032,Banteay Meanchey
+866,Suon Sokhom,F,099 036 011,Siem Reap
+867,Ung Srey,F,010 019 005,Kampong Cham
+868,Lim Sokha,F,093 056 100,Kampong Thom
+869,Tol Sokha,F,069 036 004,Oddar Meanchey
+870,Mao Monineath,M,096 067 074,Phnom Penh
+871,Tol Sovan,M,089 039 094,Kandal
+872,Vann Monineath,F,078 086 052,Kratie
+873,Heng Ratanak,F,078 053 063,Preah Vihear
+874,Chan Vanna,F,013 053 094,Kampong Chhnang
+875,Ouk Sovanna,F,083 095 058,Kandal
+876,Theng Ravy,F,097 081 080,Kratie
+877,Pich Chan,M,069 030 068,Kep
+878,You Sokha,M,067 015 007,Preah Vihear
+879,Tol Rithy,F,080 026 046,Preah Vihear
+880,Ngoun Sreytouch,F,069 042 001,Svay Rieng
+881,Chan Sreytouch,M,077 025 002,Oddar Meanchey
+882,Chhay Chan,F,078 036 059,Kampong Thom
+883,Chhay Vanna,M,085 087 030,Prey Veng
+884,Chuon Sokha,F,084 080 038,Kratie
+885,Tang Srey,F,010 022 056,Kampong Chhnang
+886,You Chenda,F,011 056 033,Kep
+887,Ngoun Dara,F,087 093 053,Kampong Chhnang
+888,Chan Sokun,M,098 019 085,Preah Vihear
+889,Tol Sokchea,M,089 022 047,Koh Kong
+890,Yon Srey,F,089 037 076,Kratie
+891,Kim Sokun,F,010 055 031,Prey Veng
+892,Mao Visal,F,067 023 066,Kratie
+893,Pich Narin,M,010 011 027,Kep
+894,Keo Sophea,M,061 057 001,Kampong Cham
+895,Yon Sreyneang,M,017 017 003,Kep
+896,Chhay Sovann,M,096 096 093,Ratanakiri
+897,Sam Chhun,F,070 012 021,Kratie
+898,Ouk Dara,F,088 068 086,Kampot
+899,Kong Sreyneang,M,018 010 047,Prey Veng
+900,Chea Narin,F,097 028 046,Kampong Thom
+901,Ung Monineath,F,012 074 052,Kampong Cham
+902,Tith Visal,F,016 026 003,Battambang
+903,Thay Sophea,M,078 066 078,Kampot
+904,Chan Narin,M,066 071 026,Battambang
+905,Chuon Sok,F,067 017 003,Takeo
+906,Suon Sophea,M,092 059 076,Phnom Penh
+907,Heng Ravy,F,011 084 047,Prey Veng
+908,Chuon Sokchea,M,085 005 027,Stung Treng
+909,Suon Nita,F,076 003 079,Pailin
+910,Tang Rathana,M,077 001 043,Takeo
+911,Seng Sok,M,099 048 004,Svay Rieng
+912,Thy Narin,M,093 054 090,Oddar Meanchey
+913,Toch Sophea,F,066 068 053,Battambang
+914,Chuon Piseth,M,090 048 081,Oddar Meanchey
+915,Theng Chhun,F,086 011 071,Battambang
+916,Rath Nita,F,090 044 083,Mondulkiri
+917,Yun Sokhom,F,016 045 027,Kampong Cham
+918,Yon Chan,F,076 045 012,Preah Sihanouk
+919,Ngoun Ravy,F,013 085 070,Pursat
+920,Suon Piseth,M,069 042 087,Siem Reap
+921,Thay Sok,F,096 049 079,Phnom Penh
+922,Mao Sokha,M,011 040 056,Battambang
+923,Chea Monineath,F,095 069 089,Takeo
+924,Vong Sreyneang,F,068 030 043,Pailin
+925,Yon Sokun,M,079 057 045,Prey Veng
+926,Chuon Chan,M,069 056 054,Kep
+927,Theng Sovanna,F,092 052 095,Kampong Speu
+928,Tith Ratanak,M,071 013 080,Siem Reap
+929,Ngoun Nita,M,096 037 031,Tboung Khmum
+930,Heng Sok,M,096 100 084,Ratanakiri
+931,Pich Sopheap,F,017 053 060,Kampong Chhnang
+932,Suon Sreyneang,F,013 099 094,Pailin
+933,Rath Sreytouch,M,011 033 071,Phnom Penh
+934,Rath Veasna,M,099 040 016,Siem Reap
+935,Vann Thida,M,096 028 011,Kampong Chhnang
+936,Ngoun Ratanak,F,083 004 076,Pursat
+937,Chea Sovanna,F,083 087 023,Kampot
+938,Chuon Narin,F,031 091 013,Banteay Meanchey
+939,Sam Srey,F,018 029 050,Battambang
+940,Keo Srey,M,038 092 036,Kampong Thom
+941,Thach Visal,F,012 069 058,Stung Treng
+942,Ouk Chhun,F,090 058 057,Kampot
+943,Thy Sreyneang,M,097 051 016,Kampong Cham
+944,Thach Sreytouch,F,096 022 051,Stung Treng
+945,Ngoun Narin,M,071 050 022,Siem Reap
+946,Ung Sreyneang,F,010 055 092,Kampong Thom
+947,Tol Veasna,M,078 016 030,Tboung Khmum
+948,You Vanna,F,011 076 065,Pursat
+949,Yun Visal,M,093 001 021,Kratie
+950,Thay Sovan,M,012 017 073,Pailin
+951,Ung Sokha,F,086 083 012,Preah Sihanouk
+952,Tang Sok,M,095 041 019,Kampong Cham
+953,Thay Sreyneang,M,069 042 072,Pailin
+954,Chhim Monineath,F,076 059 057,Takeo
+955,Thach Sokchea,F,060 067 089,Phnom Penh
+956,Kim Chenda,F,078 041 094,Preah Vihear
+957,Kim Rithy,M,011 068 001,Prey Veng
+958,Vann Chan,M,060 049 052,Banteay Meanchey
+959,Ouk Sovan,F,031 047 072,Oddar Meanchey
+960,Tang Sovanna,F,015 002 016,Kampong Speu
+961,Yon Sovan,F,098 043 011,Takeo
+962,Yun Ratanak,F,012 006 082,Siem Reap
+963,Chea Sokun,F,084 008 018,Preah Sihanouk
+964,Yin Sokun,M,079 009 081,Svay Rieng
+965,Ouk Rathana,M,018 019 004,Kampong Cham
+966,Thay Sokha,F,081 014 081,Kampong Thom
+967,Mao Dara,M,085 070 073,Battambang
+968,Thach Chenda,F,085 070 095,Takeo
+969,Kong Nita,F,084 086 019,Stung Treng
+970,Mao Srey,M,038 089 065,Pailin
+971,Chhim Thida,M,096 039 094,Siem Reap
+972,Tol Dara,M,071 007 056,Ratanakiri
+973,Lim Sokun,F,018 024 083,Preah Sihanouk
+974,Chhay Sokun,M,088 064 028,Kandal
+975,Chuon Thida,F,083 030 075,Kampong Speu
+976,Keo Rithy,F,018 063 056,Kandal
+977,Suon Ratanak,M,084 070 087,Kandal
+978,Tol Sovann,F,018 031 091,Pailin
+979,Ouk Bopha,F,084 084 042,Pailin
+980,Thach Sophea,M,081 028 048,Koh Kong
+981,Kim Ravy,F,080 033 026,Kampot
+982,You Sovann,M,088 004 069,Kep
+983,Yon Narin,F,038 059 064,Tboung Khmum
+984,Thay Veasna,F,098 086 055,Stung Treng
+985,Suon Srey,F,076 094 099,Prey Veng
+986,Ouk Sovann,M,060 086 046,Svay Rieng
+987,Chuon Sophea,M,098 082 028,Phnom Penh
+988,Tang Vanna,M,079 067 048,Kampong Thom
+989,Theng Sopheap,F,083 037 095,Preah Vihear
+990,Tol Nita,M,071 044 067,Kep
+991,Yun Sophea,M,097 071 049,Kandal
+992,Tol Srey,F,081 038 041,Kratie
+993,Vann Rithy,F,087 073 088,Svay Rieng
+994,Tang Sokchea,F,095 029 045,Pailin
+995,Kim Veasna,M,061 045 026,Prey Veng
+996,Ngoun Sovan,F,099 065 087,Kampong Thom
+997,Tith Sophea,F,060 032 025,Oddar Meanchey
+998,Tith Sok,F,087 087 085,Takeo
+999,Heng Dara,F,099 015 090,Pursat
+1000,Keo Chenda,F,015 092 080,Pursat

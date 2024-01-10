@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+random
+scikit-learn
+datetime
+collections
+shutil
